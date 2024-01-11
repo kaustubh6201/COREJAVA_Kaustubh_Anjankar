@@ -9,7 +9,7 @@ public class SwappingMethod {
 	public static void main(String[] args) throws NumberFormatException, IOException 
 	{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		System.out.println("Welcome");
+		System.out.println("We lcome");
 		int a = Integer.parseInt(br.readLine());
 		int b = Integer.parseInt(br.readLine());
 		
@@ -26,7 +26,7 @@ public class SwappingMethod {
 			System.out.println("the value of a is :-"+b);
 			System.out.println("the value of b is :-"+a);
 		
-		
+		 
 		
 		
 
