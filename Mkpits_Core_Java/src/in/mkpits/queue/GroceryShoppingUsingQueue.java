@@ -1,4 +1,4 @@
-package com.mkpits.queue;
+package in.mkpits.queue;
 
 import java.io.BufferedReader;
 import java.io.IOException;

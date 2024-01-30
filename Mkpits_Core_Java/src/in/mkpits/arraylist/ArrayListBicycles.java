@@ -1,4 +1,4 @@
-package com.mkpits.arraylist;
+package in.mkpits.arraylist;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -29,7 +29,7 @@ public class ArrayListBicycles {
 
        Object [] bicycle = bicycles.toArray();
 
-       System.out.println("Your Updated List of Bicycles are : " +ArrayList.bicycle);
+       System.out.println("Your Updated List of Bicycles are : " +bicycles);
     //    for (Object string : bicycle) {
     //     System.out.println(string);
     //    }
